@@ -74,7 +74,7 @@ Este projeto permitiu o desenvolvimento de habilidades práticas em:
 
 **Wallace Araujo**  
 Curso DIO - Formação em Excel com Inteligência Artificial  
-GitHub: [https://github.com/seu-usuario](https://github.com/araujowallace)
+GitHub: https://github.com/araujowallace
 
 ---
 
